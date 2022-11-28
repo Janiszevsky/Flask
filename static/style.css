@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  h1 {
+    font-size: 30px;
+    background-color:gray;
+  }
+  h2 {
+    font-size: 35px;
+    color:blue;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  h4 {
+    font-size: 20px;
+  }
+  ul {
+    font-size: 20px;
+  }
